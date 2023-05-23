@@ -1,4 +1,4 @@
-This Matlab skript counts bottles in predefined images.
+This Matlab script counts bottles in predefined images.
 
 Examples are provided below. The skript makes the binary image of detected bottles and then simply counts them.
 
